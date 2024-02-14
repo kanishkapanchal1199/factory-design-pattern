@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="phone.Phone"/>
+    <fullyQualifiedTypeName name="phone.PhoneBuilder"/>
+    <fullyQualifiedTypeName name="com.adap.AssignmentWork"/>
+    <fullyQualifiedTypeName name="com.adap.Pen"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+    <fullyQualifiedTypeName name="com.adap.PioletPen"/>
+    <fullyQualifiedTypeName name="com.adap.PenAdapter"/>
+    <fullyQualifiedTypeName name="composite.Leaf"/>
+    <fullyQualifiedTypeName name="composite.Component"/>
+    <fullyQualifiedTypeName name="composite.Composite"/>
+    <fullyQualifiedTypeName name="prototype.Book"/>
+    <fullyQualifiedTypeName name="java.awt.print.Book"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="prototype.BookShop"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="observer.Subscriber"/>
+    <fullyQualifiedTypeName name="observer.Channel"/>
+</qualifiedTypeNameHistroy>

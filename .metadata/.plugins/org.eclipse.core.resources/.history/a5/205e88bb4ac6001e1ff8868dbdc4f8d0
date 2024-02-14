@@ -1,0 +1,15 @@
+package observer;
+
+public class Youtube {
+	
+	public static void main(String[] args) {
+		Channel kanishka=new Channel();
+		
+		Subscriber s1=new Subscriber("riya");
+		Subscriber s2=new Subscriber("aarti");
+		Subscriber s3=new Subscriber("swati");
+		Subscriber s4=new Subscriber("binal");
+		Subscriber s5=new Subscriber("bhavika");
+	}
+
+}

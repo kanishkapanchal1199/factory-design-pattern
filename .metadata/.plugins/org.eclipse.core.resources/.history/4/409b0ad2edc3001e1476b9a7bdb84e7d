@@ -1,0 +1,11 @@
+package composite;
+
+class Leaf
+{
+	
+}
+
+class Composite
+{
+	
+}

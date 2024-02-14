@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\factory-design-pattern\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2223029889.index
+2745024211.index
+3044370120.index
+374709339.index
+3886487475.index
+1611568918.index

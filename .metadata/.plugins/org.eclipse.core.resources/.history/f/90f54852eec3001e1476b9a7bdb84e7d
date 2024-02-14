@@ -1,0 +1,26 @@
+package composite;
+
+interface Component
+{
+	 void showPrice();
+}
+class Leaf implements Component
+{
+
+	@Override
+	public void showPrice() {
+		
+		
+	}
+
+	
+}
+
+class Composite implements Component
+{
+
+	@Override
+	public void showPrice() {
+	}
+	
+}
